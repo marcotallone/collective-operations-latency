@@ -9,7 +9,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -303,16 +302,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/marcotallone/latex.svg?style=for-the-badge
-[contributors-url]: https://github.com/marcotallone/latex/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/marcotallone/latex.svg?style=for-the-badge
-[forks-url]: https://github.com/marcotallone/latex/network/members
-[stars-shield]: https://img.shields.io/github/stars/marcotallone/latex.svg?style=for-the-badge
-[stars-url]: https://github.com/marcotallone/latex/stargazers
-[issues-shield]: https://img.shields.io/github/issues/marcotallone/latex.svg?style=for-the-badge
-[issues-url]: https://github.com/marcotallone/latex/issues
-[license-shield]: https://img.shields.io/github/license/marcotallone/latex.svg?style=for-the-badge
-[license-url]: https://github.com/marcotallone/latex/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/marcotallone/collective-operations-latency.svg?style=for-the-badge
+[contributors-url]: https://github.com/marcotallone/collective-operations-latency/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/marcotallone/collective-operations-latency.svg?style=for-the-badge
+[forks-url]: https://github.com/marcotallone/collective-operations-latency/network/members
+[stars-shield]: https://img.shields.io/github/stars/marcotallone/collective-operations-latency.svg?style=for-the-badge
+[stars-url]: https://github.com/marcotallone/collective-operations-latency/stargazers
+[issues-shield]: https://img.shields.io/github/issues/marcotallone/collective-operations-latency.svg?style=for-the-badge
+[issues-url]: https://github.com/marcotallone/collective-operations-latency/issues
+[license-shield]: https://img.shields.io/github/license/marcotallone/collective-operations-latency.svg?style=for-the-badge
+[license-url]: https://github.com/marcotallone/collective-operations-latency/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/marco-tallone-40312425b
 [product-screenshot]: images/screenshot.png
