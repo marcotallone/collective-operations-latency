@@ -32,7 +32,7 @@
     <a href="./mpi-collective-op-marco-tallone.pdf"><strong>Read the official report »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/marcotallone/collective-operations-latency/apps/example.py">View Demo</a>
+    <a href="./apps/example.py">View Demo</a>
     ·
     <a href="https://github.com/marcotallone/collective-operations-latency/issues">Report Bug</a>
     ·
