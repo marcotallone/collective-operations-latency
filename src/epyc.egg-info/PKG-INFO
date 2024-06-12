@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: epyc
+Version: 0.1
+Summary: Simple Python Model for AMD EPYC 7H12 (Rome) processors.
+Home-page: UNKNOWN
+Author: Marco Tallone
+Author-email: marcotallone85@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+
+
+    This model tries to reproduce the core characteristics of the 
+    AMD EPYC 7H12 (Rome) processors, by simulating simple MPI processes
+    allocations and collective operations like broadcast and reduce.
+

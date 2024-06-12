@@ -1,0 +1,8 @@
+Algorithm: 0
+Mapping: socket
+Size: 4096
+Iterations: 1000
+Step: 4
+Min core: 128
+Max core: 256
+-----------------
